@@ -1,0 +1,32 @@
+_repo: Kvinnlighet-och-erotik-II._41301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leffler, Anne Charlotte
+    aliases:
+    - Edgren, Anne C. (Anne Charlotte)
+    - Caianello, Anne Charlotte Leffler, duchessa di
+    - Edgren, Anna Charlotta
+    - Cajanello, Anna Carlotta Leffler Edgren, duchessa di
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '36228'
+    url: http://www.gutenberg.org/2009/agents/36228
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Charlotte_Leffler
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41301'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction'
+title: Kvinnlighet och erotik II.
+url: http://www.gutenberg.org/ebooks/41301
